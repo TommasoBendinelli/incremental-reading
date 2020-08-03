@@ -21,8 +21,11 @@ from ._version import __version__
 IR_GITHUB_URL = 'https://github.com/luoliyan/incremental-reading'
 
 #Random Change
+#Second Random change
 
 def showAbout():
+    names:list
+     
     dialog = QDialog(mw)
 
     label = QLabel()
